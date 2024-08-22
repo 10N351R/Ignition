@@ -2,7 +2,7 @@
 Author: 10N351R
 
 
-Generate cURL commands from Swagger docs.
+Generate cURL commands from Swagger docs. Will update README.md soon.
 
 
 ## Output
