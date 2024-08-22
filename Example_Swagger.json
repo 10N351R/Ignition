@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://api.example.com/v1/api",
+      "url": "https://api.example.com/v9.2/api",
       "description": "Production server"
     }
   ],
